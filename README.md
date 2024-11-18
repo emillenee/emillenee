@@ -8,7 +8,6 @@
 ### My Interests:
 - **Cybersecurity**
 - **Machine Learning** and **Data Science**
-- **UI/UX Design**
 
 ### Get in Touch:
 - [LinkedIn](https://www.linkedin.com/in/emillenee)
