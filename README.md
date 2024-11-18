@@ -10,7 +10,7 @@
 - **Machine Learning** and **Data Science**
 - **UI/UX Design**
 
-### 📫 Get in Touch:
+### Get in Touch:
 - [LinkedIn](https://www.linkedin.com/in/emillenee)
 - [Email](mailto:sxemillene@gmail.com)
 
