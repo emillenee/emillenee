@@ -7,7 +7,7 @@
 
 ### My Interests:
 - **Cybersecurity**
-- **Machine Learning** and **Data Science**
+- **Data Science** and **Machine Learning**
 
 ### Get in Touch:
 - [LinkedIn](https://www.linkedin.com/in/emillenee)
