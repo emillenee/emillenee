@@ -12,8 +12,8 @@
 ##
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emillenee&show_icons=true&theme=dracula" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emillenee&layout=compact&theme=dracula&card_width=350" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emillenee&show_icons=true&theme=github_dark" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emillenee&layout=compact&theme=github_dark&card_width=350" alt="Top Languages" height="150" />
 </p>
 
 ##
@@ -26,4 +26,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50"/>
 </p>
