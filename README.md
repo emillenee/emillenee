@@ -12,8 +12,8 @@
 ##
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emillenee&show_icons=true&theme=dracula&card_width=400" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emillenee&layout=compact&theme=dracula&card_width=400" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emillenee&show_icons=true&theme=dracula" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emillenee&layout=compact&theme=dracula&card_width=350" alt="Top Languages" height="150" />
 </p>
 
 ##
