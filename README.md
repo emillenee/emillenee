@@ -14,8 +14,8 @@
 ##
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emillenee&show_icons=true&theme=github_dark" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emillenee&layout=compact&theme=github_dark&card_width=350" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emillenee&show_icons=true&theme=github_dark&random=20241208" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emillenee&layout=compact&theme=github_dark&card_width=350&random=20241208" alt="Top Languages" height="150" />
 </p>
 
 <p align="center">
