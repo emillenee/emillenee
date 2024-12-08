@@ -11,6 +11,13 @@
 
 ##
 
+##
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emillenee&show_icons=true&theme=github_dark" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emillenee&layout=compact&theme=github_dark&card_width=350" alt="Top Languages" height="150" />
+</p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="35"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="35"/>
